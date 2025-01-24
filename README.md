@@ -59,10 +59,20 @@ The program provides insights into resource consumption patterns, potential bott
 ### Bar Chart
 
 ![Image](https://github.com/user-attachments/assets/1d8e5366-49f1-45b2-a2c0-9d48aa125626)
+![Image](https://github.com/user-attachments/assets/ae5e26b5-d2fb-4da4-ac21-e777395b8ed0)
+
+![Image](https://github.com/user-attachments/assets/daea14aa-e5d8-4c2f-9d18-5eed15f0c237)
 
 ### Pie Chart
 
-![Pie Chart of Resource Usage](pie_chart.png)
+![Image](https://github.com/user-attachments/assets/24bb78f2-147b-4b4f-b078-2183d9bcb4ad)
+
+![Image](https://github.com/user-attachments/assets/a760b0c4-c272-499a-949a-0bc0048e0929)
+
+![Image](https://github.com/user-attachments/assets/0e8e9fb5-970a-43b9-b002-9597bda8c606)
+
+### Scatter Plot
+![Image](https://github.com/user-attachments/assets/09d3bb7f-4f29-40b3-b35c-316536574a61)
 
 
 ## Conclusion
